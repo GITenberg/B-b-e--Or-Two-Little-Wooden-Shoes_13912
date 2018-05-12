@@ -1,0 +1,40 @@
+_repo: B-b-e--Or-Two-Little-Wooden-Shoes_13912
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ouida
+    aliases:
+    - Ramée, Maria Louise
+    - De la Ramee, Louise
+    - De la Ramée, Louise
+    - Uida
+    - Ramé, Marie Louise
+    - De la Ramée, Louisa
+    - De La Rame, Louisa
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '1204'
+    url: http://www.gutenberg.org/2009/agents/1204
+    wikipedia: http://en.wikipedia.org/wiki/Ouida
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13912'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Netherlands -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Abandoned children -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Kindness -- Juvenile fiction'
+title: Bébée; Or, Two Little Wooden Shoes
+url: http://www.gutenberg.org/ebooks/13912
